@@ -1,0 +1,20 @@
+{
+  "name": "Pelvic Flow",
+  "short_name": "PelvicFlow",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f0b18",
+  "theme_color": "#7651ff",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
